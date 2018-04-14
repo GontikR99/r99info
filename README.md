@@ -1,5 +1,8 @@
 # r99info: a Discord <--> Project1999 bridge
 
+## Caution
+I got caught and banned for running this.  Caveat Emptor.
+
 ## Prerequisites
 This bot is written in Python, expected to be run on Linux, and is developed on
 Debian Stretch 32-bit.
