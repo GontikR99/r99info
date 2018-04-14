@@ -1,5 +1,5 @@
 # r99info: a Discord <--> Project1999 bridge
-(This documentation is out of date, and no longer works.)
+# (This documentation is out of date, and no longer works.)
 
 ## Prerequisites
 This bot is written in Python, expected to be run on Linux, and is developed on
