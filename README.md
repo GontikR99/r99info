@@ -9,12 +9,12 @@ To run, you need:
 * Xpra server (see https://xpra.org/trac/wiki/Download#Linux)
 * Xpra client
 * Titanium EverQuest install with Project1999 patches
-* xdotool (apt install xdotool)
-* Python 3.5 (apt install python3.5)
-* PIP to install python packages (apt install python3-pip)
-* discord.py (pip3 install discord.py)
-* isodate library (apt install python3-isodate)
-* OpenCV library (pip3 install opencv-python)
+* xdotool (```apt install xdotool```)
+* Python 3.5 (```apt install python3.5```)
+* PIP to install python packages (```apt install python3-pip```)
+* discord.py (```pip3 install discord.py```)
+* isodate library (```apt install python3-isodate```)
+* OpenCV library (```pip3 install opencv-python```)
 * A Discord bot static token (see e.g. https://github.com/Habchy/BasicBot/wiki/Step-3)
 
 
