@@ -3,5 +3,8 @@ TOKEN = "discord dev token"
 ACCOUNT = "P99accountName"
 PASSWORD = "P99password"
 
-# Duration, in seconds, before botmain quits
+# Duration, in seconds, before botmain quits.  Even if everything is going well, the bot
+# will go LD, falling back to relogger.py and logging back in.  This is done because sometimes
+# the connection to Discord will break in weird ways that we haven't been able to solve without
+# restarting.
 RELOG_DURATION = 4*60*60
