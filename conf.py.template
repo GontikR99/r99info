@@ -1,0 +1,7 @@
+EQ_DIR = "/path/to/everquest"
+TOKEN = "discord dev token"
+ACCOUNT = "P99accountName"
+PASSWORD = "P99password"
+
+# Duration, in seconds, before botmain quits
+RELOG_DURATION = 4*60*60
