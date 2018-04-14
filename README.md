@@ -5,17 +5,16 @@ This bot is written in Python, expected to be run on Linux, and is developed on
 Debian Stretch 32-bit.
 
 To run, you need:
-* WINE (apt install wine)
-* Xpra server (see https://xpra.org/trac/wiki/Download#Linux)
-* Xpra client
-* Titanium EverQuest install with Project1999 patches
+* A Discord bot static token (see e.g. https://github.com/Habchy/BasicBot/wiki/Step-3)
+* Titanium EverQuest install with Project1999 patches (copy from a Windows installation)
+* Xpra client & server (see https://xpra.org/trac/wiki/Download#Linux)
+* WINE (```apt install wine```)
 * xdotool (```apt install xdotool```)
 * Python 3.5 (```apt install python3.5```)
 * PIP to install python packages (```apt install python3-pip```)
 * discord.py (```pip3 install discord.py```)
 * isodate library (```apt install python3-isodate```)
 * OpenCV library (```pip3 install opencv-python```)
-* A Discord bot static token (see e.g. https://github.com/Habchy/BasicBot/wiki/Step-3)
 
 
 ### EQ on Linux
